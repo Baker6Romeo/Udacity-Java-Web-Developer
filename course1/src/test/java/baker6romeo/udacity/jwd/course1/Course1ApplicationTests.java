@@ -1,0 +1,13 @@
+package baker6romeo.udacity.jwd.course1;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Course1ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
