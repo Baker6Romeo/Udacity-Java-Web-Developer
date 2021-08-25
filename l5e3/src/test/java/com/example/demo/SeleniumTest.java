@@ -14,9 +14,6 @@ import java.util.List;
 @SpringBootTest
 public class SeleniumTest {
 
-    @LocalServerPort
-    private int port;
-
     @Test
     public static void main(String[] args) throws InterruptedException {
         //start the driver, open chrome to our target url
